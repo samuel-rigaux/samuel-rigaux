@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**samuel-rigaux/samuel-rigaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Samuel ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Student developer at the LaPlateforme.io school
+- 24 years old
+- Like new technologies
+- Fan of music
+
+
+
+##
+👩‍💻 I'm currently working on my Github and Linkedin pages
+
+🧠 I'm currently learning software dev
+
+👯‍♀️ I'm looking to collaborate on an accounting software
+
+😄 Pronouns he/him
+
+⚡️ Fun fact : I'm also an artist ! listen to me on all streaming platforms : HeySam Beats
+
+
+## 🛠 Skills
+HTML, CSS, Fl Studio, Office pack
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rigaux//)
