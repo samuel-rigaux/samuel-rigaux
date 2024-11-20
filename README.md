@@ -14,9 +14,9 @@
 
 
 ##
-👩‍💻 I'm currently working on my Github and Linkedin pages
+👩‍💻 I'm currently working on my portfolio
 
-🧠 I'm currently learning software dev
+🧠 I'm currently learning to use Figma
 
 👯‍♀️ I'm looking to collaborate on an accounting software
 
