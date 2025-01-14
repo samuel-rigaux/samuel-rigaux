@@ -26,7 +26,7 @@
 
 
 ## 🛠 Skills
-![App Screenshot]([![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev))
+![App Screenshot](https://skillicons.dev/icons?i=html,css,debian,git,github,linkedin,py,stackoverflow,windows)
 
 
 ## 🔗 Links
