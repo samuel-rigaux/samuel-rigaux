@@ -2,23 +2,23 @@
 # Hi, I'm Samuel ! 👋
 
 
-![App Screenshot](https://www.intellectsoft.net/blog/wp-content/uploads/Financial-Accounting-Software-Development-Job.jpg)
+![App Screenshot](https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567)
 
 
 ## 🚀 About Me
 - Student developer at the LaPlateforme.io school
-- 24 years old
+- 25 years old
 - Like new technologies
 - Fan of music
 
 
 
 ##
-👩‍💻 I'm currently working on my portfolio
+👩‍💻 I'm currently working on my portfolio and shell/bash
 
-🧠 I'm currently learning to use Figma
+🧠 I'm currently learning to use well Debian
 
-👯‍♀️ I'm looking to collaborate on an accounting software
+👯‍♀️ I'm looking for a cybersecurity work-study program in France
 
 😄 Pronouns he/him
 
@@ -26,7 +26,7 @@
 
 
 ## 🛠 Skills
-![App Screenshot](https://camo.githubusercontent.com/fee1efa727d267285bc2130ffef12507fe175f5ffabacd542a131339b7ffd45f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70792c6769742c6769746875622c6373732c68746d6c)
+![App Screenshot]([![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev))
 
 
 ## 🔗 Links
