@@ -14,9 +14,9 @@
 
 
 ##
-👩‍💻 I'm currently working on my portfolio and shell/bash
+👩‍💻 I'm currently working on DHCP/SFTP/SSH server
 
-🧠 I'm currently learning to use well Debian
+🧠 I'm currently learning to use well Debian for setup servers
 
 👯‍♀️ I'm looking for a cybersecurity work-study program in France
 
