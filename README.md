@@ -26,7 +26,7 @@
 
 
 ## 🛠 Skills
-![App Screenshot](https://skillicons.dev/icons?i=html,css,debian,git,github,linkedin,py,stackoverflow,windows)
+![App Screenshot](https://skillicons.dev/icons?i=html,css,debian,git,github,linkedin,py,stackoverflow,windows,bash,linux,dhcp,ssh,ftp,voip)
 
 
 ## 🔗 Links
