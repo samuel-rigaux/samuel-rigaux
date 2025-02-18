@@ -14,7 +14,7 @@
 
 
 ##
-👩‍💻 I'm currently working on DHCP/SFTP/SSH server
+👩‍💻 I'm currently working on VoIP server
 
 🧠 I'm currently learning to use well Debian for setup servers
 
