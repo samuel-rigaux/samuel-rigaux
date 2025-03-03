@@ -9,7 +9,7 @@
 - Etudiant en cybersécurité à La Pltaforme
 - 25 ans
 - Fan de nouvelles technologies
-- Passion de la musique
+- Passionné de musique
 
 
 
