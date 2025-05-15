@@ -2,7 +2,7 @@
 # Bienvenue sur mon GitHub ! 👋
 
 
-![Banner](https://drive.google.com/file/d/1LKit68cuhwZ0U49pMm_MjnggPIdh54id/view?usp=sharing)
+![Banner](https://github.com/samuel-rigaux/profile-assets/blob/main/c9ea3dc2-2796-4e8b-8815-567901340d12.png?raw=true)
 
 
 ## 🚀  À propos de moi
