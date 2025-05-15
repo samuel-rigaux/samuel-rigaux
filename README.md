@@ -2,7 +2,7 @@
 # Bienvenue sur mon GitHub ! 👋
 
 
-![App Screenshot](https://drive.google.com/file/d/1LKit68cuhwZ0U49pMm_MjnggPIdh54id/view?usp=sharing)
+![Banner](https://drive.google.com/file/d/1LKit68cuhwZ0U49pMm_MjnggPIdh54id/view?usp=sharing)
 
 
 ## 🚀  À propos de moi
