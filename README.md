@@ -6,7 +6,7 @@
 
 
 ## 🚀  À propos de moi
-- Etudiant en cybersécurité à La Pltaforme
+- Etudiant en cybersécurité à La Plateforme à Marseille 
 - 25 ans
 - Fan de nouvelles technologies
 - Passionné de musique
@@ -16,9 +16,9 @@
 ##
 👩‍💻 Je suis actuellement en train de travailler sur Grimp pour peaufiner ma recherche d'alternance 
 
-🧠 Je suis en train d'appendre à sécuriser des serveurs
+🧠 Je suis en train d'appendre à utiliser Wireshark !
 
-👯‍♀️ Je suis à la recherhce d'une alternance dans la cybersécurité, disponible à partir d'aout 2025 partout en France !
+👯‍♀️ Je suis à la recherhce d'une alternance dans la cybersécurité, disponible à partir de septembre 2025, mobile sur Aix-Marseille et les alentours !
 
 ⚡️ Fun fact : Je suis aussi un artiste indépendant, disponible sur toutes les plateformes de streaming : HeySam Beats
 
