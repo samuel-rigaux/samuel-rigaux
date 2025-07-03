@@ -14,11 +14,11 @@
 
 
 ##
-👩‍💻 Je suis actuellement en train de travailler sur Grimp pour peaufiner ma recherche d'alternance 
+👩‍💻 Je suis actuellement en train de travailler sur le projet Minilab ! 
 
-🧠 Je suis en train d'appendre à utiliser Wireshark !
+🧠 Je suis en train d'appendre à bien monter un PC !
 
-👯‍♀️ Je suis à la recherhce d'une alternance dans la cybersécurité, disponible à partir de septembre 2025, mobile sur Aix-Marseille et les alentours !
+👯‍♀️ J'ai trouvé mon alternance chez Softway Medical !
 
 ⚡️ Fun fact : Je suis aussi un artiste indépendant, disponible sur toutes les plateformes de streaming : HeySam Beats
 
