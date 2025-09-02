@@ -14,7 +14,7 @@
 
 
 ##
-👩‍💻 Je suis actuellement en train de travailler sur le projet Minilab ! 
+👩‍💻 Je suis actuellement en train de travailler sur le projet Holodeck ! 
 
 🧠 Je suis en train d'appendre à bien monter un PC !
 
