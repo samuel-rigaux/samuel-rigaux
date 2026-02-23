@@ -7,14 +7,14 @@
 
 ## 🚀  À propos de moi
 - Etudiant en cybersécurité à La Plateforme à Marseille 
-- 25 ans
+- 26 ans
 - Fan de nouvelles technologies
 - Passionné de musique
 
 
 
 ##
-👩‍💻 Je suis actuellement en train de travailler sur le projet Python, Shell, Mariadb, Mail ! 
+👩‍💻 Je suis actuellement en train de travailler sur VM imbriqué, Docker ! 
 
 🧠 Je suis en train d'appendre à bien monter un PC !
 
