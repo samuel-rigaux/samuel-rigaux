@@ -20,7 +20,7 @@
 
 👯‍♀️ J'ai trouvé mon alternance chez Softway Medical !
 
-⚡️ Fun fact : Je suis aussi un artiste indépendant, disponible sur toutes les plateformes de streaming : HeySam Beats
+⚡️ Fun fact : Je suis aussi un artiste indépendant, disponible sur toutes les plateformes de streaming : 2W2
 
 ## 🛠 Compétences
 ![App Screenshot](https://skillicons.dev/icons?i=html,css,debian,git,github,linkedin,py,stackoverflow,windows,bash,linux,dhcp,ssh,ftp,voip)
