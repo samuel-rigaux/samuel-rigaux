@@ -78,8 +78,8 @@ When I'm not in a terminal, I'm in **FL Studio**.
   <a href="https://www.linkedin.com/in/samuel-rigaux/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Replace the # below with your Spotify artist link -->
-  <a href="#">
+  
+  <a href="https://open.spotify.com/intl-fr/artist/4QNbMNES0Aw41OQN2vjjjx?si=aZcwux3SRUqAoHIXcANvpw">
     <img src="https://img.shields.io/badge/D%20SAM%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
