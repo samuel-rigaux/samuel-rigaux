@@ -25,10 +25,13 @@ $ cat about.txt
   <img src="assets/section-02.png" alt="02 // SECURITY LAB" width="100%">
 </p>
 
-- 🖥️ **Nested virtualization**: building VMs inside VMs to simulate full networks
-- 🐳 **Docker**: containerizing services and isolating environments
+- 🎯 **Currently working on Nessus**: vulnerability scanning and learning to read, prioritize and report findings
+- 🖥️ **Virtualization**: nested labs, and VM migrations between type 1 hypervisors (ESXi, Hyper-V, Proxmox VE, XCP-ng)
+- 🐳 **Containers & orchestration**: Docker, Docker Swarm (HA cluster with NFS storage), K3S / Kubernetes with Helm
+- ⚙️ **Infrastructure as Code**: Terraform to deploy attacker/victim VM labs, Ansible for hardening, Suricata, Filebeat and Vault
+- 🛡️ **Identity & compliance**: Microsoft Entra ID (PowerShell, Graph, SAML SSO) and a GDPR audit with the CNIL PIA tool
+- 🌐 **Networking**: DHCP, SSH, FTP, LDAP, VoIP, Wireshark, Linux administration
 - 🔧 **Hardware**: learning to build PCs from the ground up
-- 🌐 **Networking**: DHCP, SSH, FTP, VoIP, Linux administration
 
 <p align="center">
   <img src="assets/section-03.png" alt="03 // THE STUDIO" width="100%">
@@ -51,10 +54,14 @@ When I'm not in a terminal, I'm in **FL Studio**.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,windows,docker,py,git,github,html,css&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,powershell,windows,docker,kubernetes,terraform,ansible,nginx,py,cpp,cmake,git,github,html,css&theme=dark&perline=9" alt="Skills">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Nessus-0a0a12?style=for-the-badge&logo=tenable&logoColor=00f0ff">
+  <img src="https://img.shields.io/badge/Wireshark-0a0a12?style=for-the-badge&logo=wireshark&logoColor=00f0ff">
+  <img src="https://img.shields.io/badge/Helm-0a0a12?style=for-the-badge&logo=helm&logoColor=00f0ff">
+  <img src="https://img.shields.io/badge/Proxmox-0a0a12?style=for-the-badge&logo=proxmox&logoColor=00f0ff">
   <img src="https://img.shields.io/badge/SSH-0a0a12?style=for-the-badge&logo=gnubash&logoColor=00f0ff">
   <img src="https://img.shields.io/badge/DHCP-0a0a12?style=for-the-badge&logo=cisco&logoColor=00f0ff">
   <img src="https://img.shields.io/badge/FTP-0a0a12?style=for-the-badge&logo=files&logoColor=00f0ff">
